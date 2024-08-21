@@ -6,8 +6,8 @@ To run this project, you'll need to follow these steps:
 
 ### Clone the repository
 
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/mariacristina-s/python_budgetTrackerApp.git
+cd python_budgetTrackerApp
 
 ### Set up a Python virtual environment (optional but recommended)
 
